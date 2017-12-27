@@ -177,7 +177,7 @@ GO
   
 ## <a name="examples-includesssdwfullincludessssdwfull-mdmd-and-includesspdwincludessspdw-mdmd"></a>範例：[!INCLUDE[ssSDWfull](../../includes/sssdwfull-md.md)]和[!INCLUDE[ssPDW](../../includes/sspdw-md.md)]  
   
-### <a name="d-using-in-and-not-in"></a>D. 不能在和中使用  
+### <a name="d-using-in-and-not-in"></a>D. 在IN和 NOT IN中使用  
  下列範例會尋找所有項目`FactInternetSales`資料表符合`SalesReasonKey`值`DimSalesReason`資料表。  
   
 ```  
